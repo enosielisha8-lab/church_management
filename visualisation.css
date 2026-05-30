@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(21, 133, 170, 0.716);
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    text-align: center;
+    width: 500px;
+    background-color: white;
+    border-radius: 15px;
+}
+input{
+    width: 95%;
+    font-size: 30px;
+    margin: 10px;
+    border-radius: 15px;
+
+}
+ button{
+    background-color: blue;
+    width: 40%;
+    font-size: 20px;
+    margin: 15px;
+    border-radius: 15px;
+ }
