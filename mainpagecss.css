@@ -58,6 +58,7 @@ header{
     list-style: none;
     margin: 5px;
     padding: 10px;
+   
 }
 .leftpane ul li{
     margin: 10px;
@@ -67,12 +68,63 @@ header{
 }
 
 
-
-
 .rightpane{
-    background-color: red;
+    background-color: rgb(127, 199, 247);
     width: 80%;
+    display: flex;
+    flex-direction: column;
+    
 }
+.m1{
+    display: flex;
+    margin: 5px;
+    height: 225px;
+
+}
+.dmember{
+    width: 50%;
+    background-color: white;
+    margin: 5px;
+    border-radius: 12px;
+}
+.dservice{
+    width: 50%;
+    background-color: white;
+    margin: 5px;
+    border-radius: 12px;
+}
+
+.m2{
+    display: flex;
+    margin: 5px;
+    height: 225px
+}
+
+.ddonation{
+    background-color: white;
+    width: 50%;
+    margin: 5px;
+    border-radius: 12px;
+}
+
+.dattendence{
+    background-color: white;
+    width: 50%;
+    margin: 5px;
+    border-radius: 12px;
+    
+}
+
+.dannouncement{
+    background-color: green;
+    margin: 10px;
+    width: 98%;
+    height: 150px;
+    border-radius: 12px;
+
+}
+
+
 footer{
     background-color: midnightblue;
     display: flex;
@@ -82,8 +134,13 @@ footer{
 .leftfooter{
     background-color: aqua;
     width: 50%;
+    margin: 5px;
+    border-radius: 10px;
 }
 .rightfooter{
     background-color: rgb(236, 129, 129);
     width: 50%;
+    margin: 5px;
+    border-radius: 10px;
+    
 }

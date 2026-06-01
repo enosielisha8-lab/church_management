@@ -10,10 +10,10 @@ body{
     padding: 10px;
 }
 form{
-    background-color: white;
+    background-color: rgb(217, 34, 34);
     border-radius: 15px;
     width: 500px;
-    align-items: center;
+    align-items: ceter;
     margin: 15px;
 }
 
@@ -25,7 +25,7 @@ input{
     width: 85%;
     font-size: 20px;
     border-radius: 12px;
-    padding: 5px;
+    padding: 10px;
     margin: 10px;
 }
 button{
