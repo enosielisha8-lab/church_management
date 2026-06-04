@@ -1,0 +1,77 @@
+body{
+    background-color: rgba(205, 118, 3, 0.597);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.inner_mcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.leftmember{
+    background-color: rgb(150, 207, 245);
+    width: 50%;
+    height: 700px;
+    margin: 5px;
+    
+   
+}
+#btnn{
+    background-color: rgb(208, 176, 239);
+    width: 40%;
+    margin: 20px;
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 150px;
+    border-radius: 10px;
+
+
+}
+.formContainer{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.formContainer form{
+    width: 80%;
+    background-color: white;
+    border-radius: 12px;
+    
+
+}
+
+.formContainer form input{
+    width: 50%;
+    margin: 10px;
+    border-radius: 12px;
+    font-size: 15px;
+    padding: 10px;
+
+}
+
+.formContainer form button{
+    background-color: blue;
+    border-radius: 12px;
+    font-size: 20px;
+    width: 40%;
+    margin-bottom: 20px;
+}
+
+
+
+.rightmember{
+    background-color: aqua;
+    width: 50%;
+    height: 700px;
+    margin: 5px;
+
+}
+
+.tabledata table{
+    background-color: black;
+    width: 100%;
+}

@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(71, 245, 109, 0.806);
+    background-color: rgba(234, 113, 13, 0.806);
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -10,7 +10,7 @@ body{
     padding: 10px;
 }
 form{
-    background-color: rgb(217, 34, 34);
+    background-color: rgb(245, 236, 236);
     border-radius: 15px;
     width: 500px;
     align-items: ceter;
