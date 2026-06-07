@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(79, 233, 244);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color: blue;
+}
+
+.annContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.announcPart{
+    display: flex;
+}
+
+.addannouncement{
+    width: 50%;
+    background-color: white; 
+    margin: 5px;
+    height: 400px;
+}
+
+.announcedelete{
+    width: 50%;
+    background-color: white;
+    margin: 5px;
+    height: 400px;
+}
+
+.viewannouncement{
+    width: 99%;
+    height: 400px;
+    background-color: rgb(233, 148, 148);
+    margin: 5px;
+}
+
+.divform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divform form{
+    background-color: rgb(143, 141, 141);
+    width: 80%;
+    border-radius: 10px;
+}
+
+.divform input{
+    width: 60%;
+    margin: 12px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.divform button{
+    width: 30%;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}

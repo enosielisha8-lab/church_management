@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+button{
+    background-color: blue;
+}
+
+.addDon{
+    background-color: rgb(147, 143, 143);
+    width: 80%;
+    height: 400px;
+    margin: 5px;
+}
+
+.viewTable{
+    background-color: rgb(144, 127, 127);
+    width: 80%;
+    margin: 5px;
+    height: 400px;
+}
+.mainDon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
